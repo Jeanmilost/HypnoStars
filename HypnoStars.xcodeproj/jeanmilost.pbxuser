@@ -1,0 +1,486 @@
+// !$*UTF8*$!
+{
+	1D1DEFFC11F2363D000B3F39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9911CEAA3000DB26E1 /* IP_Star.mm */;
+		name = "IP_Star.mm: 241";
+		rLen = 0;
+		rLoc = 7740;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 7116;
+	};
+	1D2ACE3B11D140F900522B31 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D9A2E5D11D131F400BDC203 /* IP_Star.mm */;
+		name = "IP_Star.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 6740;
+	};
+	1D3623240D0F684500981E51 /* HypnoStarsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 299}}";
+			sepNavSelRange = "{433, 0}";
+			sepNavVisRange = "{0, 428}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HypnoStarsAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 2106}}";
+			sepNavSelRange = "{0, 3}";
+			sepNavVisRange = "{0, 1332}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	1D48BD0711E10D6B004EF86D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HypnoStarsAppDelegate.mm */;
+		name = "HypnoStarsAppDelegate.mm: 1";
+		rLen = 3;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1332;
+		vrLoc = 0;
+	};
+	1D48BD0811E10D6B004EF86D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3B723F11D932C100F51C30 /* Icon.png */;
+	};
+	1D5055EE11CEA8FE0071D181 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1D5055EF11CEA8FE0071D181 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* HypnoStars */ = {
+		activeExec = 0;
+		executables = (
+			1D8A153611E8B60A0062C02C /* HypnoStars */,
+		);
+	};
+	1D7F6A8C11DFEFAD00618ED5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9811CEAA3000DB26E1 /* IP_Star.h */;
+		name = "IP_Star.h: 128";
+		rLen = 0;
+		rLoc = 2498;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 2013;
+	};
+	1D7F6A9D11DFF2BE00618ED5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9511CEAA3000DB26E1 /* IP_Camera.mm */;
+		name = "IP_Camera.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 858;
+		vrLoc = 0;
+	};
+	1D8A151411E8B2460062C02C /* IP_Star.mm:233 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1DC62A9911CEAA3000DB26E1 /* IP_Star.mm */;
+		functionName = "-CalculateColor:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 233;
+		location = HypnoStars;
+		modificationTime = 300463036.35752;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	1D8A151811E8B2540062C02C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A8911CEA9C100DB26E1 /* EAGLView.mm */;
+		name = "EAGLView.mm: 49";
+		rLen = 0;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 822;
+	};
+	1D8A153611E8B60A0062C02C /* HypnoStars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HypnoStars;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1D90DD1F1205DC24006DD99C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9911CEAA3000DB26E1 /* IP_Star.mm */;
+		name = "IP_Star.mm: 241";
+		rLen = 0;
+		rLoc = 7740;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 7116;
+	};
+	1D9A2E5D11D131F400BDC203 /* IP_Star.mm */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = IP_Star.mm;
+		path = "/Volumes/Data/Développement/Etoiles3D/Classes/IP_Star.mm";
+		sourceTree = "<absolute>";
+	};
+	1DA085FD11E00F2700117948 /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = "/Volumes/Data/Développement/HypnoStars/Settings.bundle/Root.plist";
+		sourceTree = "<absolute>";
+	};
+	1DC62A8911CEA9C100DB26E1 /* EAGLView.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 2665}}";
+			sepNavSelRange = "{1473, 0}";
+			sepNavVisRange = "{822, 1060}";
+		};
+	};
+	1DC62A9411CEAA3000DB26E1 /* IP_Camera.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 305}";
+		};
+	};
+	1DC62A9511CEAA3000DB26E1 /* IP_Camera.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 611}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 858}";
+		};
+	};
+	1DC62A9611CEAA3000DB26E1 /* IP_Random.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 481}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRange = "{138, 461}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1DC62A9711CEAA3000DB26E1 /* IP_Random.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 559}}";
+			sepNavSelRange = "{564, 0}";
+			sepNavVisRange = "{165, 1077}";
+		};
+	};
+	1DC62A9811CEAA3000DB26E1 /* IP_Star.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 1729}}";
+			sepNavSelRange = "{2498, 0}";
+			sepNavVisRange = "{2013, 944}";
+		};
+	};
+	1DC62A9911CEAA3000DB26E1 /* IP_Star.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 3341}}";
+			sepNavSelRange = "{7740, 0}";
+			sepNavVisRange = "{7116, 1067}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	1DC62AEC11CEB1B400DB26E1 /* Root.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = Root.strings;
+		path = "/Volumes/Data/Développement/HypnoStars/Settings.bundle/en.lproj/Root.strings";
+		sourceTree = "<absolute>";
+	};
+	1DC88FD611E0C89100BC63A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62AEC11CEB1B400DB26E1 /* Root.strings */;
+		name = "Root.strings: 15";
+		rLen = 0;
+		rLoc = 472;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 0;
+	};
+	1DC88FD711E0C89100BC63A2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 1DA085FD11E00F2700117948 /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Data/Développement/HypnoStars/Settings.bundle/Root.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1DC8900A11E0D47F00BC63A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9411CEAA3000DB26E1 /* IP_Camera.h */;
+		name = "IP_Camera.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	1DC8900B11E0D47F00BC63A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9711CEAA3000DB26E1 /* IP_Random.mm */;
+		name = "IP_Random.mm: 21";
+		rLen = 0;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 165;
+	};
+	1DC8900C11E0D47F00BC63A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DC62A9611CEAA3000DB26E1 /* IP_Random.h */;
+		name = "IP_Random.h: 10";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 138;
+	};
+	1DC8907711E0E02D00BC63A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 140;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 886;
+		vrLoc = 0;
+	};
+	1DD6DE6611D7ECBF0014D1FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HypnoStarsAppDelegate.h */;
+		name = "HypnoStarsAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 433;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 0;
+	};
+	1DE5FA3911DD35A8004F71A1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* HypnoStars_Prefix.pch */;
+		name = "HypnoStars_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 318;
+		vrLoc = 0;
+	};
+	1DE5FA3A11DD35A8004F71A1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 354;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	1DF5322211E0046900349900 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* HypnoStars-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Data/Développement/HypnoStars/HypnoStars-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 910}}";
+			sepNavSelRange = "{0, 140}";
+			sepNavVisRange = "{0, 886}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = 1D8A153611E8B60A0062C02C /* HypnoStars */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HypnoStars */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HypnoStars */,
+		);
+		breakpoints = (
+			1D8A151411E8B2460062C02C /* IP_Star.mm:233 */,
+		);
+		codeSenseManager = 1D5055EF11CEA8FE0071D181 /* Code sense */;
+		executables = (
+			1D8A153611E8B60A0062C02C /* HypnoStars */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					668.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					781,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					741,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302373604;
+			PBXWorkspaceStateSaveDate = 302373604;
+		};
+		perUserProjectItems = {
+			1D1DEFFC11F2363D000B3F39 /* PBXTextBookmark */ = 1D1DEFFC11F2363D000B3F39 /* PBXTextBookmark */;
+			1D2ACE3B11D140F900522B31 /* PBXTextBookmark */ = 1D2ACE3B11D140F900522B31 /* PBXTextBookmark */;
+			1D48BD0711E10D6B004EF86D /* PBXTextBookmark */ = 1D48BD0711E10D6B004EF86D /* PBXTextBookmark */;
+			1D48BD0811E10D6B004EF86D /* PBXBookmark */ = 1D48BD0811E10D6B004EF86D /* PBXBookmark */;
+			1D7F6A8C11DFEFAD00618ED5 /* PBXTextBookmark */ = 1D7F6A8C11DFEFAD00618ED5 /* PBXTextBookmark */;
+			1D7F6A9D11DFF2BE00618ED5 /* PBXTextBookmark */ = 1D7F6A9D11DFF2BE00618ED5 /* PBXTextBookmark */;
+			1D8A151811E8B2540062C02C /* PBXTextBookmark */ = 1D8A151811E8B2540062C02C /* PBXTextBookmark */;
+			1D90DD1F1205DC24006DD99C /* PBXTextBookmark */ = 1D90DD1F1205DC24006DD99C /* PBXTextBookmark */;
+			1DC88FD611E0C89100BC63A2 /* PBXTextBookmark */ = 1DC88FD611E0C89100BC63A2 /* PBXTextBookmark */;
+			1DC88FD711E0C89100BC63A2 /* PlistBookmark */ = 1DC88FD711E0C89100BC63A2 /* PlistBookmark */;
+			1DC8900A11E0D47F00BC63A2 /* PBXTextBookmark */ = 1DC8900A11E0D47F00BC63A2 /* PBXTextBookmark */;
+			1DC8900B11E0D47F00BC63A2 /* PBXTextBookmark */ = 1DC8900B11E0D47F00BC63A2 /* PBXTextBookmark */;
+			1DC8900C11E0D47F00BC63A2 /* PBXTextBookmark */ = 1DC8900C11E0D47F00BC63A2 /* PBXTextBookmark */;
+			1DC8907711E0E02D00BC63A2 /* PBXTextBookmark */ = 1DC8907711E0E02D00BC63A2 /* PBXTextBookmark */;
+			1DD6DE6611D7ECBF0014D1FE /* PBXTextBookmark */ = 1DD6DE6611D7ECBF0014D1FE /* PBXTextBookmark */;
+			1DE5FA3911DD35A8004F71A1 /* PBXTextBookmark */ = 1DE5FA3911DD35A8004F71A1 /* PBXTextBookmark */;
+			1DE5FA3A11DD35A8004F71A1 /* PBXTextBookmark */ = 1DE5FA3A11DD35A8004F71A1 /* PBXTextBookmark */;
+			1DF5322211E0046900349900 /* PlistBookmark */ = 1DF5322211E0046900349900 /* PlistBookmark */;
+		};
+		sourceControlManager = 1D5055EE11CEA8FE0071D181 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 429}}";
+			sepNavSelRange = "{354, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* HypnoStars_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 429}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 318}";
+		};
+	};
+	8D1107310486CEB800E47090 /* HypnoStars-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+}
